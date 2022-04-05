@@ -8,14 +8,15 @@
 This repo will contain 13 .java files and a README. The main driver class is "AffliatesDriver.java" which handles all of the options and prompts. 
 
 When the program is run it displays the following options:
-    1) Create an affiliate record
-    2) Print information for an Affiliate given the id
-    3) List all affiliates in order of seniority
-    4) Delete a record given the id
-    5) Save your database to a file
-    6) Restore your database from a file
-    7) Exit
-File Requirements:
+1. Create an affiliate record
+2. Print information for an Affiliate given the id
+3. List all affiliates in order of seniority
+4. Delete a record given the id
+5. Save your database to a file
+6. Restore your database from a file
+7. Exit
+    
+## File Requirements:
 - plain text file
 - ONE AFFILIATE PER LINE, with each attribute value separated by commas
 - Start each line with the type of affiliate (the class name), followed by
